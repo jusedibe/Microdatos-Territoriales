@@ -1,7 +1,7 @@
 # Microdatos Territoriales de Colombia
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU-USUARIO/microdatos-territoriales-colombia/blob/main/notebooks/workspace_principal.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jusedibe/microdatos-territoriales-colombia/blob/main/notebooks/workspace_principal.ipynb)
 
 ## 📊 Descripción
 
